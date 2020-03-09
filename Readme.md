@@ -25,6 +25,7 @@ The secure password is saved to file for use elsewhere but is also decrypted to 
 
 ## Notes
 MVogwell - Feb2020
+
 Used decrypt info from https://stackoverflow.com/questions/28352141/convert-a-secure-string-to-plain-text
 
 ## Link
